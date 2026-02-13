@@ -13,6 +13,11 @@
 
 ---
 
+## 📫 Contact Information
+
+- 📧 Email: donatomatsuda93@outlook.com  
+---
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
@@ -53,27 +58,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Projects
 
 - 🔹 **Project Name 1** – Short description of what it does  
 - 🔹 **Project Name 2** – Short description of what it does  
-- 🔹 **Project Name 3** – Short description of what it does  
-
----
-
-## 📫 Contact Information
-
-- 📧 Email: donatomatsuda93@outlook.com    
+- 🔹 **Project Name 3** – Short description of what it does    
 
 ---
 
