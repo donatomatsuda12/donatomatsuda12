@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Donato Matsuda</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Feodosii Dendak</h1>
+<h3 align="center">AI Engineer | Software Engineer | Data Sccientist</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 📫 Contact Information
 
-- 📧 Email: donatomatsuda93@outlook.com  
+- 📧 Email: feodosiidendak@gmail.com
 ---
 
 ## 🛠️ Technical Skills
